@@ -126,7 +126,7 @@ export default function ChartAreaOne() {
 
   let series = chart.series.push(new am4charts.LineSeries());
   series.dataFields.dateX = "year";
-  series.name = "Уул уурхайн идэвхжил өндөр";
+  series.name = "Идэвхжил өндөр";
   series.dataFields.valueY = "max";
   series.tooltipHTML =
     "<img src='https://www.flaticon.com/svg/static/icons/svg/3103/3103476.svg' style='vertical-align:bottom; margin-right: 10px; width:32px; height:21px;'><span style='font-size:14px; color:#000000;'><b>{valueY.value}</b></span>";
@@ -140,7 +140,7 @@ export default function ChartAreaOne() {
   series.stacked = true;
 
   let series2 = chart.series.push(new am4charts.LineSeries());
-  series2.name = "Уул уурхайн идэвхжил дунд";
+  series2.name = "Идэвхжил дунд";
   series2.dataFields.dateX = "year";
   series2.dataFields.valueY = "medium";
   series2.tooltipHTML =
@@ -156,7 +156,7 @@ export default function ChartAreaOne() {
   series2.strokeWidth = 2;
 
   let series3 = chart.series.push(new am4charts.LineSeries());
-  series3.name = "Уул уурхайн идэвхжил бага";
+  series3.name = "Идэвхжил бага";
   series3.dataFields.dateX = "year";
   series3.dataFields.valueY = "low";
   series3.tooltipHTML =

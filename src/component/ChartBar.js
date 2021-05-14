@@ -15,23 +15,23 @@ export default function ChartBar() {
   // Add data
   chart.data = [
     {
-      animal: "Янгир",
+      animal: "Банк санхүү",
       income: 70,
     },
     {
-      animal: "Ямаа",
+      animal: "Уул уурхай",
       income: 18,
     },
     {
-      animal: "Аргал",
+      animal: "Хүнс",
       income: 11,
     },
     {
-      animal: "Хонь",
+      animal: "Хөдөө аж ахуй",
       income: 4,
     },
     {
-      animal: "Шувуу",
+      animal: "Мал аж ахуй",
       income: 2,
     },
   ];

@@ -27,27 +27,27 @@ export default function ChartPieSecond() {
   // Add data
   chart.data = [
     {
-      land: "Cөөгтэй бэлчээр",
+      land: "Санхүү",
       percent: 56.0,
     },
     {
-      land: "Заган ой",
+      land: "Хүнс",
       percent: 22.9,
     },
     {
-      land: "Чулуутай бэлчээр",
+      land: "Уул уурхай",
       percent: 20.3,
     },
     {
-      land: "Цэвэр бэлчээр",
+      land: "Хөнгөн үйлдвэрлэл",
       percent: 0.5,
     },
     {
-      land: "Дорвонтой бэлчээр",
+      land: "Хөдөө аж ахуй",
       percent: 0.1,
     },
     {
-      land: "Нуур",
+      land: "Мал аж ахуй",
       percent: 0.0,
     },
   ];

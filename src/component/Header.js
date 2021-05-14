@@ -13,7 +13,7 @@ export default function Header() {
           <div className="row align-items-center position-relative">
             <div className="site-logo">
               <a href="index-2.html" className="text-black">
-                <span className="text-primary">The Moncertf</span>
+                <span className="text-primary">Moncertf</span>
               </a>
             </div>
             <div className="col-12">

@@ -11,10 +11,7 @@ export default function Footer() {
                 <div className="col-md-8">
                   <h2 className="footer-heading mb-4">Вэбийн талаар</h2>
                   <p>
-                    “Уул Уурхайг Өгөгдлөөр Урлахуй” цахим хакатонд "Байгаль
-                    орчны нөхөн сэргээлт " сэдвээр оролцож "The Makers" багын
-                    бүтээл буюу хэрхэн байгаль дэлхийгээ хамгаалж үлдэх болон
-                    ....
+                  Төгс төгөлдрийг хэвшил болгож бид дэлхийд өрсөлдөнө.
                   </p>
                 </div>
                 <div className="col-md-4 ml-auto">
@@ -77,9 +74,9 @@ export default function Footer() {
               <div className="border-top pt-5">
                 <p className="copyright">
                   <small>
-                    Copyright © 2020 | by{" "}
+                    Copyright © 2021 | by{" "}
                     <a href="#" target="_blank">
-                      The Makers баг Эх орон байгаль эхээ хайрлая
+                      MonCertf Төгс төгөлдрийг хэвшил болгож бид дэлхийд өрсөлдөнө.
                     </a>{" "}
                     <i className="icon-heart text-danger" aria-hidden="true" />{" "}
                   </small>
